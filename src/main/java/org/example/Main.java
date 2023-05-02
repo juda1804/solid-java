@@ -99,12 +99,5 @@ public class Main {
 
         return reduce.orElse(0);
 
-
-
-
-
-        return reduce.orElse(0);
-
-
     }
 }
